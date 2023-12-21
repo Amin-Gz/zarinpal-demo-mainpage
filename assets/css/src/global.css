@@ -1,0 +1,9 @@
+.container {
+  width: 81.5%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+/* .faclass {
+  font-weight: 100;
+} */
